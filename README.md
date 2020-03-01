@@ -1,1 +1,1 @@
-# guret-uni
+# great-uni
