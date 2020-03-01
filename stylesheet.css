@@ -57,7 +57,7 @@ h2{
 }
 .icon{
   padding:8px 24px;
-  border-radius:1px;
+  border-radius:3px;
   display:inline-block;
   cursor:pointer;
 }
